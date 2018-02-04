@@ -14,5 +14,4 @@ me, so I use this as a replacement for daily use.
 3. `./script/run.sh [port] [www-root]`
 
 ### TODO
-1. More MIME mapping
-2. Delivering large file
+1. 类似于一个web服务器,可以把本地的html,jss,css返回给客户端
